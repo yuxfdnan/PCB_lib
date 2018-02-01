@@ -1,0 +1,1 @@
+STM32F0 STM32F1 STM32F2 STM32F4 STM32W STM8L 系列的PCB封装和原理图封装 资料来自Altium Designer的官方网站绝对好用，PCB封装后面的L,N,M 分别表示高密度，中密度，低密度。
